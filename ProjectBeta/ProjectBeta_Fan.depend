@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790001760 source:d:\projectbeta\projectbeta_fan\main.c
+	<stdio.h>
+	<stdlib.h>
+
