@@ -1,7 +1,7 @@
 # Project_Beta
 PID Controller that works simulates fan duty output of a motor vehicle engine.
 ## How to Run
-Recieves values from arrays within teh program.The ideal temperatire of a car engine is 90 degree celius, thsi is teh set point an target we want to reach by using the "fan" to lower the negine temperature. The prgram heavly depends n teh PID comtroller gains.Those values are experimental and can be changed.
+Recieves values from arrays within the program.The ideal temperature of a car engine is 90 degree celsius, this is the set point and target we want to reach by using the "fan" to lower the engine temperature. The program heavily depends on the PID comtroller gains.Those values are experimental and can be changed.
 ### Prerequisites
 - You need to have [Code::Blocks](https://codeblocks.org) installed with a C++ compiler (like MinGW).
 ### Instructions
