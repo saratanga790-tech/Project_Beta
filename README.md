@@ -1,5 +1,5 @@
 # Project_Beta
-PID Controller that works simulates fan duty output of a motor vehicle engine.
+PID Controller that simulates fan duty output of a motor vehicle engine.
 ## How to Run
 Recieves values from arrays within the program.The ideal temperature of a car engine is 90 degree celsius, this is the set point and target we want to reach by using the "fan" to lower the engine temperature. The program heavily depends on the PID controller gains.Those values are experimental and can be changed.
 ### Prerequisites
